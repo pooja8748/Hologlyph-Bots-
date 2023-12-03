@@ -1,4 +1,4 @@
-![image](https://github.com/pooja8748/Hologlyph-Bots-/assets/130728514/cf5aaeba-c6bb-448c-8efb-ecb21242bc7c)## Task 1
+## Task 1
 
 ## Task 1A
 Task 1A is a relatively simple task designed just for you to get comfortable with the usage of ROS2
