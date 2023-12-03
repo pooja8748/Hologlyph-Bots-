@@ -18,7 +18,9 @@ Lastly, the second turtle should draw another circle bigger than the previous on
 The final output/drawing should resemble the appearance of a snowman.⛄
 The expected output for Task 1A is given below 👇 :
 
-![image](https://github.com/pooja8748/Hologlyph-Bots-/assets/130728514/42df291e-253e-4e25-989e-8a495cefb3bd)
+
+![image](https://github.com/pooja8748/Hologlyph-Bots-/assets/130728514/138d5113-37f5-436d-b0a8-7e315a5b9e89)
+
 
 ## Approach
 
