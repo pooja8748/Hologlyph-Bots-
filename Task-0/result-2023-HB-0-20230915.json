@@ -1,0 +1,26 @@
+{
+    "distro": {
+        "machine": "x86_64",
+        "release": "6.2.0-32-generic",
+        "system": "Linux",
+        "version": "22.04.3",
+        "name": "Ubuntu"
+    },
+    "virtualized": false,
+    "dockerized": false,
+    "self-os-declaration": false,
+    "mac_address": "50:c2:e8:34:28:a7",
+    "python": {
+        "version": "3.10.12"
+    },
+    "ros": {
+        "version": "humble"
+    },
+    "gazebo": {
+        "version": "11.10.2\n11.10.2"
+    },
+    "generate": true,
+    "meta": {
+        "evaluation_time": 0.4233589172363281
+    }
+}
