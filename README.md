@@ -8,14 +8,15 @@ Our team consisting of  4 interdisciplinary members ( [POOJA RAMANI*](https://ww
 
 ## Theme description
 
-![image](https://github.com/pooja8748/HologlyphBots-HB-/assets/130728514/77e3a6da-8108-4ca5-bd9d-7a9e45eb79e9)
+![image](https://github.com/pooja8748/Hologlyph-Bots-/assets/130728514/2b3c4ec4-6078-46f5-b59f-95bedffde955)
+
 
 
 eYRC 2023-24 unveils “Hologlyph BotS” in which multiple robots are used for designing the Geoglyphs. 
 Geoglyphs are large designs or motifs that are difficult to see or even identified on the ground but are easily appreciated when seen from the sky.
 In the heart of a lush Greenland landscape, a perplexing enigma etched itself into the Earth's surface thousands of years ago. The Nasca Lines, colossal geoglyphs spanning vast stretches of green land, have confounded archaeologists and historians for centuries. These monumental creations – intricate animal figures, geometric designs, and intricate shapes – remain a testament to a civilization long past. Yet, their true purpose and the methods behind their construction continue to elude us.
 
-![image](https://github.com/pooja8748/HologlyphBots-HB-/assets/130728514/acf37e93-b248-4b24-8ef2-778e21162cb8)
+![image](https://github.com/pooja8748/Hologlyph-Bots-/assets/130728514/3cf11ec0-ae22-4a0b-a984-00e0c38d5668)
 
 ## System Requirements:
 
