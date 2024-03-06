@@ -2,7 +2,7 @@
 eYantra Robotics Competition 2023-2024
 Hologlyph Bots (HB) is one of the themes in 10th edition of [E-Yantra Robotics Competition](https://portal.e-yantra.org/) 2023-2024 , an international robotics outreach program funded by the Ministry of Education and hosted at the [Indian Institute of Technology, Bombay](https://www.iitbombay.org/)
  
-Our team consisting of  4 interdisciplinary members ( [POOJA RAMANI*](https://www.linkedin.com/in/pooja-ramani-73b603255/), [KAUSHAL BHANDERI](https://www.linkedin.com/in/kaushal-bhanderi/), [YASH NASIT](https://www.linkedin.com/in/yash-nasit-223a71250?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app),[JALAY MOVALIYA](https://www.linkedin.com/in/jalaymovaliya/) ) from the CHARUSAT UNIVERSITY. 
+Our team consisting of  4 interdisciplinary members ( [POOJA RAMANI*](https://www.linkedin.com/in/pooja-ramani-73b603255/), [KAUSHAL BHANDERI](https://www.linkedin.com/in/kaushal-bhanderi/), [YASH NASIT](https://www.linkedin.com/in/yash-nasit-223a71250?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app),[JALAY MOVALIYA] (https://www.linkedin.com/in/jalaymovaliya/), [KRISH MAVANI](https://www.linkedin.com/in/krish-mavani/)  ) from the CHARUSAT UNIVERSITY. 
 
 *main contributors
 
